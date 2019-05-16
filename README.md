@@ -1,1 +1,1 @@
-# OregonCTF - http://oregonctf.org/
+# OregonCTF
